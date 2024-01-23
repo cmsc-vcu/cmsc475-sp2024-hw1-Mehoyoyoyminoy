@@ -21,5 +21,5 @@ of many different styles of embedding.
 6. You'll also be submitting this repository (be sure to commit and push your changes) to Gradescope.
 
 7. Finally, don't forget to introduce yourself in the [course discussion](https://virginiacommonwealth.instructure.com/courses/93957/discussion_topics/712041) on Canvas!
-
+Nice
 
