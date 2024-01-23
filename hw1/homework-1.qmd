@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 1
-author: Drop your name here
+author: Chris Hoang
 date: last-modified
 format:
   html:
@@ -9,21 +9,13 @@ format:
     embed-resources: true
 ---
 
-(delete the following paragraphs)
-Welcome to homework assignment 1!  For most homework assignments in this class, you'll be submitting quarto-generated HTML reports documenting your work.
-
-For this assignment, you'll be documenting that you installed the necessary software by embedding a screen shot of your terminal window, showing the appropriate versions of the software.
-
-You'll also be embedding URLs taken from several web sites that we'll be using as part of our exploration of user interface design this semester.
-(delete the paragraphs above)
-
-(Remove the paragraphs above and add a description of this project in your own words.)
+Hello This is my silly little website with my silly little tasks coding my silly little website.
 
 # Software Installation
 
 Yes, I installed the necessary software.  Below is a screen shot showing the versions of the software that I've got running on my machine.  These programs are all on the PATH and can all be run from the command line, too!
 
-![](assets/cmsc475-sp2024-hw1-versions.png)
+![](assets/Chris's-screenshot.png)
 
 **Instructions***: *Your job is to modify the [markdown image link](https://quarto.org/docs/authoring/markdown-basics.html#links-images) above with an image that you create.  I generally store images in an *assets* fomder directly under the folder containing my main report folders.*
 
@@ -53,7 +45,7 @@ Once you create your account, experiment around until you create an image that l
 
 <center>
 <iframe
-src="https://editor.p5js.org/jleonard99/full/czZsouwoG"
+src="https://editor.p5js.org/Mehoyminoy/sketches/IAetnF8jr"
 width=400
 height=250
 data-external="1"
@@ -67,8 +59,7 @@ data-external="1"
 Yes, I set up my expo account and created a sample expo application.  Below is a link to my customized app.
 
 <center>
-<iframe 
-src="https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=false&debug=true&device=iphone12&deviceColor=black&embed=true&orientation=portrait&scale=72&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelLaunchUrlDefaultsKey%22%3A%22exp%3A%2F%2Fexp.host%2F%40jleonard99%2Fhomework-1-example%2B9!6OAJyXQN%22%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D"
+<iframe src="https://appetize.io/embed/8bnmakzrptf1hv9dq7v7bnteem?autoplay=false&debug=true&device=iphone12&deviceColor=black&embed=true&orientation=portrait&scale=72&screenOnly=false&xDocMsg=true&xdocMsg=true&params=%7B%22EXDevMenuDisableAutoLaunch%22%3Atrue%2C%22EXKernelLaunchUrlDefaultsKey%22%3A%22exp%3A%2F%2Fexp.host%2F%40mehoyminoy%2Fthankful-red-popsicle%2B6WxdNCVBb0%22%2C%22EXKernelDisableNuxDefaultsKey%22%3Atrue%7D"
 width="100%" 
 height="700" 
 frameborder="0" 
@@ -79,4 +70,4 @@ data-external="1"
 
 # Reflection
 
-(remove this text and add a reflection of your own.  What did you like about this assignment?  What was difficult?  What would you do different?)
+This wasn't too hard! Just a little confusing, but after I got the hang of it this wasn't too bad.
